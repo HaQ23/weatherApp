@@ -82,7 +82,7 @@ Frontend jest zbudowany w Vue.js i komunikuje się z backendem.
 
 ## Refleksje i Przemyślenia
 
-Projekt ten zrealizowałem w przeciągu około 3-4 dni roboczych, co było dość krótkim czasem na tak kompleksową aplikację. Głównym powodem tego ograniczonego czasu były moje zobowiązania prywatne, które wymagały mojej uwagi. Dodatkowo, ponieważ był to mój pierwszy projekt w Vue.js, musiałem poświęcić sporo czasu na badania oraz naukę, jak efektywnie korzystać z tego frameworka.
+Projekt ten zrealizowałem w przeciągu około 3-4 dni roboczych. Dodatkowo, ponieważ był to mój pierwszy projekt w Vue.js, musiałem poświęcić sporo czasu na nauke oraz poszukwanie informacji jak efektywnie korzystać z tego frameworka.
 
 #### Co bym zrobił inaczej:
 
