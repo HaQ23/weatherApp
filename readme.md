@@ -19,7 +19,7 @@ Backend jest napisany w Pythonie i korzysta z bazy danych MongoDB.
 1. **Sklonuj repozytorium:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/HaQ23/weatherApp.git
    cd your-repo
    ```
 
@@ -79,3 +79,26 @@ Frontend jest zbudowany w Vue.js i komunikuje się z backendem.
    npm run serve
 
    Aplikacja frontendowa będzie dostępna pod adresem `http://localhost:8080` (domyślnie).
+
+## Refleksje i Przemyślenia
+
+Projekt ten zrealizowałem w przeciągu około 3-4 dni roboczych, co było dość krótkim czasem na tak kompleksową aplikację. Głównym powodem tego ograniczonego czasu były moje zobowiązania prywatne, które wymagały mojej uwagi. Dodatkowo, ponieważ był to mój pierwszy projekt w Vue.js, musiałem poświęcić sporo czasu na badania oraz naukę, jak efektywnie korzystać z tego frameworka.
+
+#### Co bym zrobił inaczej:
+
+1. **Optymalizacja Stylów CSS:**
+
+   - **Globalne Style**: Przy projektowaniu aplikacji, skupiłbym się na używaniu globalnych stylów zamiast duplikowania kodu CSS w wielu miejscach. Wprowadzenie globalnych zmiennych i mixinów w SCSS mogłoby znacznie uprościć zarządzanie stylami i poprawić spójność wizualną aplikacji.
+
+2. **Struktura Plików:**
+
+   - **Organizacja Kodów**: Zdecydowanie zainwestowałbym więcej czasu w przemyślenie struktury plików i folderów.
+
+3. **Nazewnictwo i Czytelność Kodu:**
+
+   - **Zmienna i Metody**: Niektóre zmienne i metody mogłyby być lepiej nazwane, aby były bardziej intuicyjne i czytelne dla innych programistów. Na przykład, zmienne mogłyby być bardziej opisowe, a metody lepiej odzwierciedlać swoje funkcje.
+
+4. **Skalowalność i Struktura Serwisów:**
+
+   - **Modularność**: Z powodu ograniczonego czasu projekt został zrealizowany w sposób bardziej jednorodny. W przyszłości skoncentrowałbym się na tworzeniu bardziej modularnych i skalowalnych serwisów, które mogą być łatwiej zarządzane i rozwijane.
+   - **UI/UX**: Poprawiłbym wygląd aplikacji. Chociaż użycie Bootstrapu ułatwiło pracę i było zgodne z wymaganiami, efektem ubocznym było nadanie aplikacji typowego, "bootstrapowego" wyglądu.
