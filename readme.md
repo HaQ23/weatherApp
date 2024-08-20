@@ -102,3 +102,10 @@ Projekt ten zrealizowałem w przeciągu około 3-4 dni roboczych. Dodatkowo, pon
 
    - **Modularność**: Z powodu ograniczonego czasu projekt został zrealizowany w sposób bardziej jednorodny. W przyszłości skoncentrowałbym się na tworzeniu bardziej modularnych i skalowalnych serwisów, które mogą być łatwiej zarządzane i rozwijane.
    - **UI/UX**: Poprawiłbym wygląd aplikacji. Chociaż użycie Bootstrapu ułatwiło pracę i było zgodne z wymaganiami, efektem ubocznym było nadanie aplikacji typowego, "bootstrapowego" wyglądu.
+
+## Przykład interfejsu
+
+Oto zrzut ekranu pokazujący, jak wygląda aplikacja:
+
+![Zrzut ekranu aplikacji](assets/ss1.png)
+![Zrzut ekranu aplikacji](assets/ss2.png)
