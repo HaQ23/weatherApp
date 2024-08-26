@@ -80,28 +80,6 @@ Frontend jest zbudowany w Vue.js i komunikuje się z backendem.
 
    Aplikacja frontendowa będzie dostępna pod adresem `http://localhost:8080` (domyślnie).
 
-## Refleksje i Przemyślenia
-
-Projekt ten zrealizowałem w przeciągu około 3-4 dni roboczych. Dodatkowo, ponieważ był to mój pierwszy projekt w Vue.js, musiałem poświęcić sporo czasu na nauke oraz poszukwanie informacji jak efektywnie korzystać z tego frameworka.
-
-#### Co bym zrobił inaczej:
-
-1. **Optymalizacja Stylów CSS:**
-
-   - **Globalne Style**: Przy projektowaniu aplikacji, skupiłbym się na używaniu globalnych stylów zamiast duplikowania kodu CSS w wielu miejscach. Wprowadzenie globalnych zmiennych i mixinów w SCSS mogłoby znacznie uprościć zarządzanie stylami i poprawić spójność wizualną aplikacji.
-
-2. **Struktura Plików:**
-
-   - **Organizacja Kodów**: Zdecydowanie zainwestowałbym więcej czasu w przemyślenie struktury plików i folderów.
-
-3. **Nazewnictwo i Czytelność Kodu:**
-
-   - **Zmienna i Metody**: Niektóre zmienne i metody mogłyby być lepiej nazwane, aby były bardziej intuicyjne i czytelne dla innych programistów. Na przykład, zmienne mogłyby być bardziej opisowe, a metody lepiej odzwierciedlać swoje funkcje.
-
-4. **Skalowalność i Struktura Serwisów:**
-
-   - **Modularność**: Z powodu ograniczonego czasu projekt został zrealizowany w sposób bardziej jednorodny. W przyszłości skoncentrowałbym się na tworzeniu bardziej modularnych i skalowalnych serwisów, które mogą być łatwiej zarządzane i rozwijane.
-   - **UI/UX**: Poprawiłbym wygląd aplikacji. Chociaż użycie Bootstrapu ułatwiło pracę i było zgodne z wymaganiami, efektem ubocznym było nadanie aplikacji typowego, "bootstrapowego" wyglądu.
 
 ## Przykład interfejsu
 
